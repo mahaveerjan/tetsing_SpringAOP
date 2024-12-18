@@ -20,6 +20,7 @@ public class UserService {
     private User user;
 
     public UserService(){
+
         user = new User("Mahaveer",20,"Belgavi" );
     }
 
